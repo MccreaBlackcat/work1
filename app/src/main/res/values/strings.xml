@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">work1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_a_fragment">A fragment</string>
+    <string name="hello_b_fragment">B fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">C fragment</string>
+</resources>
